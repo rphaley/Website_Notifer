@@ -1,0 +1,6 @@
+
+*.pyc
+ExSMTPPass.py
+sendEmail.py
+*.zip
+*.log
